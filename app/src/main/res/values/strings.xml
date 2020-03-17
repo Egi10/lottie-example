@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lottie-example</string>
+    <string name="title">Next, take a selfie</string>
+    <string name="sub_title">We\'ll compare your selfie to your ID photo. If they don;n match, your reservation wil be canceled</string>
+</resources>
